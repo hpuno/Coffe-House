@@ -1,4 +1,4 @@
-(https://www.ctu.edu.vn/branding)
+![logo ctu](https://www.ctu.edu.vn/images/upload/logo.png)
 
 # Nhập Môn Lập Trình Web - CT188
 
